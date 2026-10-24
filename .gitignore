@@ -1,0 +1,9 @@
+node_modules/
+dist/
+# Interface copiée depuis cine-web par build.mjs : seuls les fichiers propres à webOS sont suivis
+app/*
+!app/appinfo.json
+!app/icon.png
+!app/largeIcon.png
+!app/splash.png
+!app/banner.png

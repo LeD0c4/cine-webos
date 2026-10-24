@@ -1,0 +1,11 @@
+{
+  "name": "cine-webos",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "@webos-tools/cli": "^3.2.6"
+  }
+}
